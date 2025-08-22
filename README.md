@@ -1,4 +1,4 @@
-# Leet Code Algorithms Practice
+# Fundamental Mathematics for Artifical Intelligence in Python
 ![Python](https://img.shields.io/badge/Python-yellow)
 ![SciPy](https://img.shields.io/badge/SciPy-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-lightblue)
