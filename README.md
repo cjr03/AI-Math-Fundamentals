@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-yellow)
 ![SciPy](https://img.shields.io/badge/SciPy-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-lightblue)
-![Pandas](https://img.shields.io/badge/NumPy-darkblue)
+![Pandas](https://img.shields.io/badge/Pandas-darkblue)
 
 Python programs written while studying the fundemental mathematics of AI.
 ## Topics Explored
